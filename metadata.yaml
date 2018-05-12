@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36361
     wikipedia: http://de.wikipedia.org/wiki/Rudolf_Leonhard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33327#Das-Werk-Heinrich-Manns
 gutenberg_bookshelf: DE Sachbuch
 gutenberg_issued: '2010-08-02'
 gutenberg_type: Text
