@@ -1,0 +1,28 @@
+_repo: Das-Werk-Heinrich-Manns_33327
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leonhard, Rudolf
+    birthdate: 1889
+    deathdate: 1953
+    gutenberg_agent_id: '36361'
+    url: http://www.gutenberg.org/2009/agents/36361
+    wikipedia: http://de.wikipedia.org/wiki/Rudolf_Leonhard
+description: ''
+gutenberg_bookshelf: DE Sachbuch
+gutenberg_issued: '2010-08-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33327'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mann, Heinrich, 1871-1950'
+- !lcc 'PT'
+title: Das Werk Heinrich Manns
+url: http://www.gutenberg.org/ebooks/33327
